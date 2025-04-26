@@ -2,7 +2,7 @@
 
 
 
-<img title="" src="./srt/show.png" alt="show.png" width="391">
+<img title="" src="./art/show.png" alt="show.png" width="391">
 
 
 
