@@ -1,6 +1,8 @@
 # BlurTextView
 
 
+上初中时就很喜欢的效果，哈哈哈，时间过得还是很快
+
 
 <img title="" src="./art/show.png" alt="show.png" width="391">
 
